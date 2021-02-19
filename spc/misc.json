@@ -1,0 +1,1201 @@
+[
+    {
+        "entity": "&trade;",
+        "hex": "&#2122;",
+        "name": "TRADEMARK SIGN",
+        "char": "™"
+    },
+    {
+        "entity": "&copy;",
+        "hex": "&#00A9;",
+        "name": "COPYRIGHT SIGN",
+        "char": "©"
+    },
+    {
+        "entity": "&reg;",
+        "hex": "&#00AE;",
+        "name": "REGISTERED SIGN",
+        "char": "®"
+    },
+    { "hex": "&#0024;", "name": "DOLLAR SIGN", "char": "$" },
+    { "hex": "&#20AC;", "name": "EURO SIGN", "char": "€" },
+    { "entity": "&cent;", "hex": "&#00A2;", "name": "CENT SIGN", "char": "¢" },
+    {
+        "entity": "&pound;",
+        "hex": "&#00A3;",
+        "name": "POUND SIGN",
+        "char": "£"
+    },
+    {
+        "entity": "&curren;",
+        "hex": "&#00A4;",
+        "name": "CURRENCY SIGN",
+        "char": "¤"
+    },
+    { "entity": "&yen;", "hex": "&#00A5;", "name": "YEN SIGN", "char": "¥" },
+    {
+        "entity": "&para;",
+        "hex": "&#00B6;",
+        "name": "PILCROW SIGN",
+        "char": "¶"
+    },
+    {
+        "entity": "&sect;",
+        "hex": "&#00A7;",
+        "name": "SECTION SIGN",
+        "char": "§"
+    },
+    {
+        "hex": "&#275D;",
+        "name": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
+        "char": "❝"
+    },
+    {
+        "hex": "&#275E;",
+        "name": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
+        "char": "❞"
+    },
+    { "entity": "&infin;", "hex": "&#221E;", "name": "INFINITY", "char": "∞" },
+    {
+        "entity": "&oslash;",
+        "hex": "&#00F8;",
+        "name": "LATIN SMALL LETTER O WITH STROKE",
+        "char": "ø"
+    },
+    { "entity": "&ne;", "hex": "&#2260;", "name": "NOT EQUAL TO", "char": "≠" },
+    { "hex": "&#0025;", "name": "PERCENT SIGN", "char": "%" },
+    {
+        "entity": "&hellip;",
+        "hex": "&#2026;",
+        "name": "HORIZONTAL ELLIPSIS",
+        "char": "…"
+    },
+    { "entity": "&int;", "hex": "&#222B;", "name": "INTEGRAL", "char": "∫" },
+    {
+        "entity": "&asymp;",
+        "hex": "&#2248;",
+        "name": "ALMOST EQUAL TO",
+        "char": "≈"
+    },
+    {
+        "entity": "&there4;",
+        "hex": "&#2234;",
+        "name": "THEREFORE",
+        "char": "∴"
+    },
+    {
+        "entity": "&prop;",
+        "hex": "&#221D;",
+        "name": "PROPORTIONAL TO",
+        "char": "∝"
+    },
+    {
+        "entity": "&micro;",
+        "hex": "&#00B5;",
+        "name": "MICRO SIGN",
+        "char": "µ"
+    },
+    {
+        "entity": "&part;",
+        "hex": "&#2202;",
+        "name": "PARTIAL DIFFERENTIAL",
+        "char": "∂"
+    },
+    {
+        "entity": "&Omega;",
+        "hex": "&#03A9;",
+        "name": "GREEK CAPITAL LETTER OMEGA",
+        "char": "Ω"
+    },
+    {
+        "entity": "&Phi;",
+        "hex": "&#03A6;",
+        "name": "GREEK CAPITAL LETTER PHI",
+        "char": "Φ"
+    },
+    {
+        "entity": "&Psi;",
+        "hex": "&#03A8;",
+        "name": "GREEK CAPITAL LETTER PSI",
+        "char": "Ψ"
+    },
+    {
+        "entity": "&lambda;",
+        "hex": "&#03BB;",
+        "name": "GREEK SMALL LETTER LAMDA",
+        "char": "λ"
+    },
+    { "hex": "&#03F4;", "name": "GREEK CAPITAL THETA SYMBOL", "char": "ϴ" },
+    {
+        "entity": "&omega;",
+        "hex": "&#03C9;",
+        "name": "GREEK SMALL LETTER OMEGA",
+        "char": "ω"
+    },
+    { "hex": "&#A74F;", "name": "LATIN SMALL LETTER OO", "char": "ꝏ" },
+    {
+        "hex": "&#1D60;",
+        "name": "MODIFIER LETTER SMALL GREEK PHI",
+        "char": "ᵠ"
+    },
+    { "hex": "&#2103;", "name": "DEGREE CELSIUS", "char": "℃" },
+    { "hex": "&#2109;", "name": "DEGREE FAHRENHEIT", "char": "℉" },
+    { "hex": "&#2691;", "name": "BLACK FLAG", "char": "⚑" },
+    { "hex": "&#2690;", "name": "WHITE FLAG", "char": "⚐" },
+    { "hex": "&#2766;", "name": "FLORAL HEART", "char": "❦" },
+    {
+        "hex": "&#2619;",
+        "name": "REVERSED ROTATED FLORAL HEART BULLET",
+        "char": "☙"
+    },
+    { "hex": "&#2668;", "name": "HOT SPRINGS EMOJI", "char": "♨" },
+    { "hex": "&#2601;", "name": "CLOUD", "char": "☁" },
+    { "hex": "&#2696;", "name": "SCALES EMOJI", "char": "⚖" },
+
+    { "entity": "&uml;", "hex": "&#00A8;", "name": "DIAERESIS", "char": "¨" },
+    { "entity": "&not;", "hex": "&#00AC;", "name": "NOT SIGN", "char": "¬" },
+    { "entity": "&macr;", "hex": "&#00AF;", "name": "MACRON", "char": "¯" },
+    {
+        "entity": "&acute;",
+        "hex": "&#00B4;",
+        "name": "ACUTE ACCENT",
+        "char": "´"
+    },
+    {
+        "entity": "&micro;",
+        "hex": "&#00B5;",
+        "name": "MICRO SIGN",
+        "char": "µ"
+    },
+    {
+        "entity": "&middot;",
+        "hex": "&#00B7;",
+        "name": "MIDDLE DOT",
+        "char": "·"
+    },
+    { "entity": "&cedil;", "hex": "&#00B8;", "name": "CEDILLA", "char": "¸" },
+    {
+        "entity": "&plusmn;",
+        "hex": "&#00B1;",
+        "name": "PLUS-MINUS SIGN",
+        "char": "±"
+    },
+    {
+        "entity": "&sup1;",
+        "hex": "&#00B9;",
+        "name": "SUPERSCRIPT ONE",
+        "char": "¹"
+    },
+    {
+        "entity": "&sup2;",
+        "hex": "&#00B2;",
+        "name": "SUPERSCRIPT TWO",
+        "char": "²"
+    },
+    {
+        "entity": "&sup3;",
+        "hex": "&#00B3;",
+        "name": "SUPERSCRIPT THREE",
+        "char": "³"
+    },
+    { "entity": "&deg;", "hex": "&#00B0;", "name": "DEGREE SIGN", "char": "°" },
+    {
+        "entity": "&ordf;",
+        "hex": "&#00AA;",
+        "name": "FEMININE ORDINAL INDICATOR",
+        "char": "ª"
+    },
+    {
+        "entity": "&ordm;",
+        "hex": "&#00BA;",
+        "name": "MASCULINE ORDINAL INDICATOR",
+        "char": "º"
+    },
+    {
+        "entity": "&frac14;",
+        "hex": "&#00BC;",
+        "name": "VULGAR FRACTION ONE QUARTER",
+        "char": "¼"
+    },
+    {
+        "entity": "&frac12;",
+        "hex": "&#00BD;",
+        "name": "VULGAR FRACTION ONE HALF",
+        "char": "½"
+    },
+    {
+        "entity": "&frac34;",
+        "hex": "&#00BE;",
+        "name": "VULGAR FRACTION THREE QUARTERS",
+        "char": "¾"
+    },
+    {
+        "entity": "&iquest;",
+        "hex": "&#00BF;",
+        "name": "INVERTED QUESTION MARK",
+        "char": "¿"
+    },
+    {
+        "entity": "&iexcl;",
+        "hex": "&#00A1;",
+        "name": "INVERTED EXCLAMATION MARK",
+        "char": "¡"
+    },
+    {
+        "entity": "&brvbar;",
+        "hex": "&#00A6;",
+        "name": "BROKEN BAR",
+        "char": "¦"
+    },
+
+    {
+        "entity": "&laquo;",
+        "hex": "&#00AB;",
+        "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+        "char": "«"
+    },
+    {
+        "entity": "&raquo;",
+        "hex": "&#00BB;",
+        "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+        "char": "»"
+    },
+
+    { "hex": "&#25A0;", "name": "BLACK SQUARE", "char": "■" },
+    { "hex": "&#25A1;", "name": "WHITE SQUARE", "char": "□" },
+    {
+        "hex": "&#25A2;",
+        "name": "WHITE SQUARE WITH ROUNDED CORNERS",
+        "char": "▢"
+    },
+    {
+        "hex": "&#25A3;",
+        "name": "WHITE SQUARE CONTAINING BLACK SMALL SQUARE",
+        "char": "▣"
+    },
+    { "hex": "&#25A4;", "name": "SQUARE WITH HORIZONTAL FILL", "char": "▤" },
+    { "hex": "&#25A5;", "name": "SQUARE WITH VERTICAL FILL", "char": "▥" },
+    {
+        "hex": "&#25A6;",
+        "name": "SQUARE WITH ORTHOGONAL CROSSHATCH FILL",
+        "char": "▦"
+    },
+    {
+        "hex": "&#25A7;",
+        "name": "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL",
+        "char": "▧"
+    },
+    {
+        "hex": "&#25A8;",
+        "name": "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL",
+        "char": "▨"
+    },
+    {
+        "hex": "&#25A9;",
+        "name": "SQUARE WITH DIAGONAL CROSSHATCH FILL",
+        "char": "▩"
+    },
+    { "hex": "&#25AA;", "name": "BLACK SMALL SQUARE", "char": "▪" },
+    { "hex": "&#25AB;", "name": "WHITE SMALL SQUARE", "char": "▫" },
+    { "hex": "&#25AC;", "name": "BLACK RECTANGLE", "char": "▬" },
+    { "hex": "&#25AD;", "name": "WHITE RECTANGLE", "char": "▭" },
+    { "hex": "&#25AE;", "name": "BLACK VERTICAL RECTANGLE", "char": "▮" },
+    { "hex": "&#25AF;", "name": "WHITE VERTICAL RECTANGLE", "char": "▯" },
+    { "hex": "&#25B0;", "name": "BLACK PARALLELOGRAM", "char": "▰" },
+    { "hex": "&#25B1;", "name": "WHITE PARALLELOGRAM", "char": "▱" },
+    { "hex": "&#25B2;", "name": "BLACK UP-POINTING TRIANGLE", "char": "▲" },
+    { "hex": "&#25B3;", "name": "WHITE UP-POINTING TRIANGLE", "char": "△" },
+    {
+        "hex": "&#25B4;",
+        "name": "BLACK UP-POINTING SMALL TRIANGLE",
+        "char": "▴"
+    },
+    {
+        "hex": "&#25B5;",
+        "name": "WHITE UP-POINTING SMALL TRIANGLE",
+        "char": "▵"
+    },
+    { "hex": "&#25B6;", "name": "BLACK RIGHT-POINTING TRIANGLE", "char": "▶" },
+    { "hex": "&#25B7;", "name": "WHITE RIGHT-POINTING TRIANGLE", "char": "▷" },
+    {
+        "hex": "&#25B8;",
+        "name": "BLACK RIGHT-POINTING SMALL TRIANGLE",
+        "char": "▸"
+    },
+    {
+        "hex": "&#25B9;",
+        "name": "WHITE RIGHT-POINTING SMALL TRIANGLE",
+        "char": "▹"
+    },
+    { "hex": "&#25BA;", "name": "BLACK RIGHT-POINTING POINTER", "char": "►" },
+    { "hex": "&#25BB;", "name": "WHITE RIGHT-POINTING POINTER", "char": "▻" },
+    { "hex": "&#25BC;", "name": "BLACK DOWN-POINTING TRIANGLE", "char": "▼" },
+    { "hex": "&#25BD;", "name": "WHITE DOWN-POINTING TRIANGLE", "char": "▽" },
+    {
+        "hex": "&#25BE;",
+        "name": "BLACK DOWN-POINTING SMALL TRIANGLE",
+        "char": "▾"
+    },
+    {
+        "hex": "&#25BF;",
+        "name": "WHITE DOWN-POINTING SMALL TRIANGLE",
+        "char": "▿"
+    },
+    { "hex": "&#25C0;", "name": "BLACK LEFT-POINTING TRIANGLE", "char": "◀" },
+    { "hex": "&#25C1;", "name": "WHITE LEFT-POINTING TRIANGLE", "char": "◁" },
+    {
+        "hex": "&#25C2;",
+        "name": "BLACK LEFT-POINTING SMALL TRIANGLE",
+        "char": "◂"
+    },
+    {
+        "hex": "&#25C3;",
+        "name": "WHITE LEFT-POINTING SMALL TRIANGLE",
+        "char": "◃"
+    },
+    { "hex": "&#25C4;", "name": "BLACK LEFT-POINTING POINTER", "char": "◄" },
+    { "hex": "&#25C5;", "name": "WHITE LEFT-POINTING POINTER", "char": "◅" },
+    { "hex": "&#25C6;", "name": "BLACK DIAMOND", "char": "◆" },
+    { "hex": "&#25C7;", "name": "WHITE DIAMOND", "char": "◇" },
+    {
+        "hex": "&#25C8;",
+        "name": "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND",
+        "char": "◈"
+    },
+    { "hex": "&#25C9;", "name": "FISHEYE", "char": "◉" },
+    { "entity": "&loz;", "hex": "&#25CA;", "name": "LOZENGE", "char": "◊" },
+    { "hex": "&#25CB;", "name": "WHITE CIRCLE", "char": "○" },
+    { "hex": "&#25CC;", "name": "DOTTED CIRCLE", "char": "◌" },
+    { "hex": "&#25CD;", "name": "CIRCLE WITH VERTICAL FILL", "char": "◍" },
+    { "hex": "&#25CE;", "name": "BULLSEYE", "char": "◎" },
+    { "hex": "&#25CF;", "name": "BLACK CIRCLE", "char": "●" },
+    { "hex": "&#25D0;", "name": "CIRCLE WITH LEFT HALF BLACK", "char": "◐" },
+    { "hex": "&#25D1;", "name": "CIRCLE WITH RIGHT HALF BLACK", "char": "◑" },
+    { "hex": "&#25D2;", "name": "CIRCLE WITH LOWER HALF BLACK", "char": "◒" },
+    { "hex": "&#25D3;", "name": "CIRCLE WITH UPPER HALF BLACK", "char": "◓" },
+    {
+        "hex": "&#25D4;",
+        "name": "CIRCLE WITH UPPER RIGHT QUADRANT BLACK",
+        "char": "◔"
+    },
+    {
+        "hex": "&#25D5;",
+        "name": "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK",
+        "char": "◕"
+    },
+    { "hex": "&#25D6;", "name": "LEFT HALF BLACK CIRCLE", "char": "◖" },
+    { "hex": "&#25D7;", "name": "RIGHT HALF BLACK CIRCLE", "char": "◗" },
+    { "hex": "&#25D8;", "name": "INVERSE BULLET", "char": "◘" },
+    { "hex": "&#25D9;", "name": "INVERSE WHITE CIRCLE", "char": "◙" },
+    {
+        "hex": "&#25DA;",
+        "name": "UPPER HALF INVERSE WHITE CIRCLE",
+        "char": "◚"
+    },
+    {
+        "hex": "&#25DB;",
+        "name": "LOWER HALF INVERSE WHITE CIRCLE",
+        "char": "◛"
+    },
+    {
+        "hex": "&#25DC;",
+        "name": "UPPER LEFT QUADRANT CIRCULAR ARC",
+        "char": "◜"
+    },
+    {
+        "hex": "&#25DD;",
+        "name": "UPPER RIGHT QUADRANT CIRCULAR ARC",
+        "char": "◝"
+    },
+    {
+        "hex": "&#25DE;",
+        "name": "LOWER RIGHT QUADRANT CIRCULAR ARC",
+        "char": "◞"
+    },
+    {
+        "hex": "&#25DF;",
+        "name": "LOWER LEFT QUADRANT CIRCULAR ARC",
+        "char": "◟"
+    },
+    { "hex": "&#25E0;", "name": "UPPER HALF CIRCLE", "char": "◠" },
+    { "hex": "&#25E1;", "name": "LOWER HALF CIRCLE", "char": "◡" },
+    { "hex": "&#25E2;", "name": "BLACK LOWER RIGHT TRIANGLE", "char": "◢" },
+    { "hex": "&#25E3;", "name": "BLACK LOWER LEFT TRIANGLE", "char": "◣" },
+    { "hex": "&#25E4;", "name": "BLACK UPPER LEFT TRIANGLE", "char": "◤" },
+    { "hex": "&#25E5;", "name": "BLACK UPPER RIGHT TRIANGLE", "char": "◥" },
+    { "hex": "&#25E6;", "name": "WHITE BULLET", "char": "◦" },
+    { "hex": "&#25E7;", "name": "SQUARE WITH LEFT HALF BLACK", "char": "◧" },
+    { "hex": "&#25E8;", "name": "SQUARE WITH RIGHT HALF BLACK", "char": "◨" },
+    {
+        "hex": "&#25E9;",
+        "name": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK",
+        "char": "◩"
+    },
+    {
+        "hex": "&#25EA;",
+        "name": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK",
+        "char": "◪"
+    },
+    {
+        "hex": "&#25EB;",
+        "name": "WHITE SQUARE WITH VERTICAL BISECTING LINE",
+        "char": "◫"
+    },
+    {
+        "hex": "&#25EC;",
+        "name": "WHITE UP-POINTING TRIANGLE WITH DOT",
+        "char": "◬"
+    },
+    {
+        "hex": "&#25ED;",
+        "name": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK",
+        "char": "◭"
+    },
+    {
+        "hex": "&#25EE;",
+        "name": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK",
+        "char": "◮"
+    },
+    { "hex": "&#25EF;", "name": "LARGE CIRCLE", "char": "◯" },
+    {
+        "hex": "&#25F0;",
+        "name": "WHITE SQUARE WITH UPPER LEFT QUADRANT",
+        "char": "◰"
+    },
+    {
+        "hex": "&#25F1;",
+        "name": "WHITE SQUARE WITH LOWER LEFT QUADRANT",
+        "char": "◱"
+    },
+    {
+        "hex": "&#25F2;",
+        "name": "WHITE SQUARE WITH LOWER RIGHT QUADRANT",
+        "char": "◲"
+    },
+    {
+        "hex": "&#25F3;",
+        "name": "WHITE SQUARE WITH UPPER RIGHT QUADRANT",
+        "char": "◳"
+    },
+    {
+        "hex": "&#25F4;",
+        "name": "WHITE CIRCLE WITH UPPER LEFT QUADRANT",
+        "char": "◴"
+    },
+    {
+        "hex": "&#25F5;",
+        "name": "WHITE CIRCLE WITH LOWER LEFT QUADRANT",
+        "char": "◵"
+    },
+    {
+        "hex": "&#25F6;",
+        "name": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT",
+        "char": "◶"
+    },
+    {
+        "hex": "&#25F7;",
+        "name": "WHITE CIRCLE WITH UPPER RIGHT QUADRANT",
+        "char": "◷"
+    },
+    { "hex": "&#25F8;", "name": "UPPER LEFT TRIANGLE", "char": "◸" },
+    { "hex": "&#25F9;", "name": "UPPER RIGHT TRIANGLE", "char": "◹" },
+    { "hex": "&#25FA;", "name": "LOWER LEFT TRIANGLE", "char": "◺" },
+    { "hex": "&#25FB;", "name": "WHITE MEDIUM SQUARE", "char": "◻" },
+    { "hex": "&#25FC;", "name": "BLACK MEDIUM SQUARE", "char": "◼" },
+    { "hex": "&#25FD;", "name": "WHITE MEDIUM SMALL SQUARE", "char": "◽" },
+    { "hex": "&#25FE;", "name": "BLACK MEDIUM SMALL SQUARE", "char": "◾" },
+    { "hex": "&#25FF;", "name": "LOWER RIGHT TRIANGLE", "char": "◿" },
+
+    { "hex": "&#2B12;", "name": "SQUARE WITH TOP HALF BLACK", "char": "⬒" },
+    { "hex": "&#2B13;", "name": "SQUARE WITH BOTTOM HALF BLACK", "char": "⬓" },
+    {
+        "hex": "&#2B14;",
+        "name": "SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK",
+        "char": "⬔"
+    },
+    {
+        "hex": "&#2B15;",
+        "name": "SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK",
+        "char": "⬕"
+    },
+    { "hex": "&#2B16;", "name": "DIAMOND WITH LEFT HALF BLACK", "char": "⬖" },
+    { "hex": "&#2B17;", "name": "DIAMOND WITH RIGHT HALF BLACK", "char": "⬗" },
+    { "hex": "&#2B18;", "name": "DIAMOND WITH TOP HALF BLACK", "char": "⬘" },
+    { "hex": "&#2B19;", "name": "DIAMOND WITH BOTTOM HALF BLACK", "char": "⬙" },
+    { "hex": "&#2B1A;", "name": "DOTTED SQUARE", "char": "⬚" },
+    { "hex": "&#2B1F;", "name": "BLACK PENTAGON", "char": "⬟" },
+    { "hex": "&#2B20;", "name": "WHITE PENTAGON", "char": "⬠" },
+    { "hex": "&#2B21;", "name": "WHITE HEXAGON", "char": "⬡" },
+    { "hex": "&#2B22;", "name": "BLACK HEXAGON", "char": "⬢" },
+    { "hex": "&#2B23;", "name": "HORIZONTAL BLACK HEXAGON", "char": "⬣" },
+    { "hex": "&#2B24;", "name": "BLACK LARGE CIRCLE", "char": "⬤" },
+    { "hex": "&#2B53;", "name": "BLACK RIGHT-POINTING PENTAGON", "char": "⭓" },
+    { "hex": "&#2B54;", "name": "WHITE RIGHT-POINTING PENTAGON", "char": "⭔" },
+
+    { "hex": "&#2600;", "name": "BLACK SUN WITH RAYS", "char": "☀" },
+    { "hex": "&#2601;", "name": "CLOUD", "char": "☁" },
+    { "hex": "&#2602;", "name": "UMBRELLA", "char": "☂" },
+    { "hex": "&#2603;", "name": "SNOWMAN", "char": "☃" },
+    { "hex": "&#2604;", "name": "COMET", "char": "☄" },
+    { "hex": "&#2605;", "name": "BLACK STAR", "char": "★" },
+    { "hex": "&#2606;", "name": "WHITE STAR", "char": "☆" },
+    { "hex": "&#2607;", "name": "LIGHTNING", "char": "☇" },
+    { "hex": "&#2608;", "name": "THUNDERSTORM", "char": "☈" },
+    { "hex": "&#2609;", "name": "SUN", "char": "☉" },
+    { "hex": "&#260A;", "name": "ASCENDING NODE", "char": "☊" },
+    { "hex": "&#260B;", "name": "DESCENDING NODE", "char": "☋" },
+    { "hex": "&#260C;", "name": "CONJUNCTION", "char": "☌" },
+    { "hex": "&#260D;", "name": "OPPOSITION", "char": "☍" },
+    { "hex": "&#260E;", "name": "BLACK TELEPHONE", "char": "☎" },
+    { "hex": "&#260F;", "name": "WHITE TELEPHONE", "char": "☏" },
+    { "hex": "&#2610;", "name": "BALLOT BOX", "char": "☐" },
+    { "hex": "&#2611;", "name": "BALLOT BOX WITH CHECK", "char": "☑" },
+    { "hex": "&#2612;", "name": "BALLOT BOX WITH X", "char": "☒" },
+    { "hex": "&#2613;", "name": "SALTIRE", "char": "☓" },
+    { "hex": "&#2614;", "name": "UMBRELLA WITH RAIN DROPS", "char": "☔" },
+    { "hex": "&#2615;", "name": "HOT BEVERAGE", "char": "☕" },
+    { "hex": "&#2616;", "name": "WHITE SHOGI PIECE", "char": "☖" },
+    { "hex": "&#2617;", "name": "BLACK SHOGI PIECE", "char": "☗" },
+    { "hex": "&#2618;", "name": "SHAMROCK", "char": "☘" },
+    {
+        "hex": "&#2619;",
+        "name": "REVERSED ROTATED FLORAL HEART BULLET",
+        "char": "☙"
+    },
+    { "hex": "&#261A;", "name": "BLACK LEFT POINTING INDEX", "char": "☚" },
+    { "hex": "&#261B;", "name": "BLACK RIGHT POINTING INDEX", "char": "☛" },
+    { "hex": "&#261C;", "name": "WHITE LEFT POINTING INDEX", "char": "☜" },
+    { "hex": "&#261D;", "name": "WHITE UP POINTING INDEX", "char": "☝" },
+    { "hex": "&#261E;", "name": "WHITE RIGHT POINTING INDEX", "char": "☞" },
+    { "hex": "&#261F;", "name": "WHITE DOWN POINTING INDEX", "char": "☟" },
+    { "hex": "&#2620;", "name": "SKULL AND CROSSBONES", "char": "☠" },
+    { "hex": "&#2621;", "name": "CAUTION SIGN", "char": "☡" },
+    { "hex": "&#2622;", "name": "RADIOACTIVE SIGN", "char": "☢" },
+    { "hex": "&#2623;", "name": "BIOHAZARD SIGN", "char": "☣" },
+    { "hex": "&#2624;", "name": "CADUCEUS", "char": "☤" },
+    { "hex": "&#2625;", "name": "ANKH", "char": "☥" },
+    { "hex": "&#2626;", "name": "ORTHODOX CROSS", "char": "☦" },
+    { "hex": "&#2627;", "name": "CHI RHO", "char": "☧" },
+    { "hex": "&#2628;", "name": "CROSS OF LORRAINE", "char": "☨" },
+    { "hex": "&#2629;", "name": "CROSS OF JERUSALEM", "char": "☩" },
+    { "hex": "&#262A;", "name": "STAR AND CRESCENT", "char": "☪" },
+    { "hex": "&#262B;", "name": "FARSI SYMBOL", "char": "☫" },
+    { "hex": "&#262C;", "name": "ADI SHAKTI", "char": "☬" },
+    { "hex": "&#262D;", "name": "HAMMER AND SICKLE", "char": "☭" },
+    { "hex": "&#262E;", "name": "PEACE SYMBOL", "char": "☮" },
+    { "hex": "&#262F;", "name": "YIN YANG", "char": "☯" },
+    { "hex": "&#2630;", "name": "TRIGRAM FOR HEAVEN", "char": "☰" },
+    { "hex": "&#2631;", "name": "TRIGRAM FOR LAKE", "char": "☱" },
+    { "hex": "&#2632;", "name": "TRIGRAM FOR FIRE", "char": "☲" },
+    { "hex": "&#2633;", "name": "TRIGRAM FOR THUNDER", "char": "☳" },
+    { "hex": "&#2634;", "name": "TRIGRAM FOR WIND", "char": "☴" },
+    { "hex": "&#2635;", "name": "TRIGRAM FOR WATER", "char": "☵" },
+    { "hex": "&#2636;", "name": "TRIGRAM FOR MOUNTAIN", "char": "☶" },
+    { "hex": "&#2637;", "name": "TRIGRAM FOR EARTH", "char": "☷" },
+    { "hex": "&#2638;", "name": "WHEEL OF DHARMA", "char": "☸" },
+    { "hex": "&#2639;", "name": "WHITE FROWNING FACE", "char": "☹" },
+    { "hex": "&#263A;", "name": "WHITE SMILING FACE", "char": "☺" },
+    { "hex": "&#263B;", "name": "BLACK SMILING FACE", "char": "☻" },
+    { "hex": "&#263C;", "name": "WHITE SUN WITH RAYS", "char": "☼" },
+    { "hex": "&#263D;", "name": "FIRST QUARTER MOON", "char": "☽" },
+    { "hex": "&#263E;", "name": "LAST QUARTER MOON", "char": "☾" },
+    { "hex": "&#263F;", "name": "MERCURY", "char": "☿" },
+    { "hex": "&#2640;", "name": "FEMALE SIGN", "char": "♀" },
+    { "hex": "&#2641;", "name": "EARTH", "char": "♁" },
+    { "hex": "&#2642;", "name": "MALE SIGN", "char": "♂" },
+    { "hex": "&#2643;", "name": "JUPITER", "char": "♃" },
+    { "hex": "&#2644;", "name": "SATURN", "char": "♄" },
+    { "hex": "&#2645;", "name": "URANUS", "char": "♅" },
+    { "hex": "&#2646;", "name": "NEPTUNE", "char": "♆" },
+    { "hex": "&#2647;", "name": "PLUTO", "char": "♇" },
+    { "hex": "&#2648;", "name": "ARIES", "char": "♈" },
+    { "hex": "&#2649;", "name": "TAURUS", "char": "♉" },
+    { "hex": "&#264A;", "name": "GEMINI", "char": "♊" },
+    { "hex": "&#264B;", "name": "CANCER", "char": "♋" },
+    { "hex": "&#264C;", "name": "LEO", "char": "♌" },
+    { "hex": "&#264D;", "name": "VIRGO", "char": "♍" },
+    { "hex": "&#264E;", "name": "LIBRA", "char": "♎" },
+    { "hex": "&#264F;", "name": "SCORPIUS", "char": "♏" },
+    { "hex": "&#2650;", "name": "SAGITTARIUS", "char": "♐" },
+    { "hex": "&#2651;", "name": "CAPRICORN", "char": "♑" },
+    { "hex": "&#2652;", "name": "AQUARIUS", "char": "♒" },
+    { "hex": "&#2653;", "name": "PISCES", "char": "♓" },
+    { "hex": "&#2654;", "name": "WHITE CHESS KING", "char": "♔" },
+    { "hex": "&#2655;", "name": "WHITE CHESS QUEEN", "char": "♕" },
+    { "hex": "&#2656;", "name": "WHITE CHESS ROOK", "char": "♖" },
+    { "hex": "&#2657;", "name": "WHITE CHESS BISHOP", "char": "♗" },
+    { "hex": "&#2658;", "name": "WHITE CHESS KNIGHT", "char": "♘" },
+    { "hex": "&#2659;", "name": "WHITE CHESS PAWN", "char": "♙" },
+    { "hex": "&#265A;", "name": "BLACK CHESS KING", "char": "♚" },
+    { "hex": "&#265B;", "name": "BLACK CHESS QUEEN", "char": "♛" },
+    { "hex": "&#265C;", "name": "BLACK CHESS ROOK", "char": "♜" },
+    { "hex": "&#265D;", "name": "BLACK CHESS BISHOP", "char": "♝" },
+    { "hex": "&#265E;", "name": "BLACK CHESS KNIGHT", "char": "♞" },
+    { "hex": "&#265F;", "name": "BLACK CHESS PAWN", "char": "♟" },
+    {
+        "hex": "&#2660;",
+        "entity": "&spades;",
+        "name": "BLACK SPADE SUIT",
+        "char": "♠"
+    },
+    { "hex": "&#2661;", "name": "WHITE HEART SUIT", "char": "♡" },
+    { "hex": "&#2662;", "name": "WHITE DIAMOND SUIT", "char": "♢" },
+    {
+        "hex": "&#2663;",
+        "entity": "&clubs;",
+        "name": "BLACK CLUB SUIT",
+        "char": "♣"
+    },
+    { "hex": "&#2664;", "name": "WHITE SPADE SUIT", "char": "♤" },
+    {
+        "hex": "&#2665;",
+        "entity": "&hearts;",
+        "name": "BLACK HEART SUIT",
+        "char": "♥"
+    },
+    {
+        "hex": "&#2666;",
+        "entity": "&diams;",
+        "name": "BLACK DIAMOND SUIT",
+        "char": "♦"
+    },
+    { "hex": "&#2667;", "name": "WHITE CLUB SUIT", "char": "♧" },
+    { "hex": "&#2668;", "name": "HOT SPRINGS", "char": "♨" },
+    { "hex": "&#2669;", "name": "QUARTER NOTE", "char": "♩" },
+    { "hex": "&#266A;", "name": "EIGHTH NOTE", "char": "♪" },
+    { "hex": "&#266B;", "name": "BEAMED EIGHTH NOTES", "char": "♫" },
+    { "hex": "&#266C;", "name": "BEAMED SIXTEENTH NOTES", "char": "♬" },
+    { "hex": "&#266D;", "name": "MUSIC FLAT SIGN", "char": "♭" },
+    { "hex": "&#266E;", "name": "MUSIC NATURAL SIGN", "char": "♮" },
+    { "hex": "&#266F;", "name": "MUSIC SHARP SIGN", "char": "♯" },
+    { "hex": "&#2670;", "name": "WEST SYRIAC CROSS", "char": "♰" },
+    { "hex": "&#2671;", "name": "EAST SYRIAC CROSS", "char": "♱" },
+    { "hex": "&#2672;", "name": "UNIVERSAL RECYCLING SYMBOL", "char": "♲" },
+    {
+        "hex": "&#2673;",
+        "name": "RECYCLING SYMBOL FOR TYPE-1 PLASTICS",
+        "char": "♳"
+    },
+    {
+        "hex": "&#2674;",
+        "name": "RECYCLING SYMBOL FOR TYPE-2 PLASTICS",
+        "char": "♴"
+    },
+    {
+        "hex": "&#2675;",
+        "name": "RECYCLING SYMBOL FOR TYPE-3 PLASTICS",
+        "char": "♵"
+    },
+    {
+        "hex": "&#2676;",
+        "name": "RECYCLING SYMBOL FOR TYPE-4 PLASTICS",
+        "char": "♶"
+    },
+    {
+        "hex": "&#2677;",
+        "name": "RECYCLING SYMBOL FOR TYPE-5 PLASTICS",
+        "char": "♷"
+    },
+    {
+        "hex": "&#2678;",
+        "name": "RECYCLING SYMBOL FOR TYPE-6 PLASTICS",
+        "char": "♸"
+    },
+    {
+        "hex": "&#2679;",
+        "name": "RECYCLING SYMBOL FOR TYPE-7 PLASTICS",
+        "char": "♹"
+    },
+    {
+        "hex": "&#267A;",
+        "name": "RECYCLING SYMBOL FOR GENERIC MATERIALS",
+        "char": "♺"
+    },
+    {
+        "hex": "&#267B;",
+        "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
+        "char": "♻"
+    },
+    { "hex": "&#267C;", "name": "RECYCLED PAPER SYMBOL", "char": "♼" },
+    {
+        "hex": "&#267D;",
+        "name": "PARTIALLY-RECYCLED PAPER SYMBOL",
+        "char": "♽"
+    },
+    { "hex": "&#267E;", "name": "PERMANENT PAPER SIGN", "char": "♾" },
+    { "hex": "&#267F;", "name": "WHEELCHAIR SYMBOL", "char": "♿" },
+    { "hex": "&#2680;", "name": "DIE FACE-1", "char": "⚀" },
+    { "hex": "&#2681;", "name": "DIE FACE-2", "char": "⚁" },
+    { "hex": "&#2682;", "name": "DIE FACE-3", "char": "⚂" },
+    { "hex": "&#2683;", "name": "DIE FACE-4", "char": "⚃" },
+    { "hex": "&#2684;", "name": "DIE FACE-5", "char": "⚄" },
+    { "hex": "&#2685;", "name": "DIE FACE-6", "char": "⚅" },
+    { "hex": "&#2686;", "name": "WHITE CIRCLE WITH DOT RIGHT", "char": "⚆" },
+    { "hex": "&#2687;", "name": "WHITE CIRCLE WITH TWO DOTS", "char": "⚇" },
+    {
+        "hex": "&#2688;",
+        "name": "BLACK CIRCLE WITH WHITE DOT RIGHT",
+        "char": "⚈"
+    },
+    {
+        "hex": "&#2689;",
+        "name": "BLACK CIRCLE WITH TWO WHITE DOTS",
+        "char": "⚉"
+    },
+    { "hex": "&#268A;", "name": "MONOGRAM FOR YANG", "char": "⚊" },
+    { "hex": "&#268B;", "name": "MONOGRAM FOR YIN", "char": "⚋" },
+    { "hex": "&#268C;", "name": "DIGRAM FOR GREATER YANG", "char": "⚌" },
+    { "hex": "&#268D;", "name": "DIGRAM FOR LESSER YIN", "char": "⚍" },
+    { "hex": "&#268E;", "name": "DIGRAM FOR LESSER YANG", "char": "⚎" },
+    { "hex": "&#268F;", "name": "DIGRAM FOR GREATER YIN", "char": "⚏" },
+    { "hex": "&#2690;", "name": "WHITE FLAG", "char": "⚐" },
+    { "hex": "&#2691;", "name": "BLACK FLAG", "char": "⚑" },
+    { "hex": "&#2692;", "name": "HAMMER AND PICK", "char": "⚒" },
+    { "hex": "&#2693;", "name": "ANCHOR", "char": "⚓" },
+    { "hex": "&#2694;", "name": "CROSSED SWORDS", "char": "⚔" },
+    { "hex": "&#2695;", "name": "STAFF OF AESCULAPIUS", "char": "⚕" },
+    { "hex": "&#2696;", "name": "SCALES", "char": "⚖" },
+    { "hex": "&#2697;", "name": "ALEMBIC", "char": "⚗" },
+    { "hex": "&#2698;", "name": "FLOWER", "char": "⚘" },
+    { "hex": "&#2699;", "name": "GEAR", "char": "⚙" },
+    { "hex": "&#269A;", "name": "STAFF OF HERMES", "char": "⚚" },
+    { "hex": "&#269B;", "name": "ATOM SYMBOL", "char": "⚛" },
+    { "hex": "&#269C;", "name": "FLEUR-DE-LIS", "char": "⚜" },
+    { "hex": "&#26A0;", "name": "WARNING SIGN", "char": "⚠" },
+    { "hex": "&#26A1;", "name": "HIGH VOLTAGE SIGN", "char": "⚡" },
+    { "hex": "&#26A2;", "name": "DOUBLED FEMALE SIGN", "char": "⚢" },
+    { "hex": "&#26A3;", "name": "DOUBLED MALE SIGN", "char": "⚣" },
+    {
+        "hex": "&#26A4;",
+        "name": "INTERLOCKED FEMALE AND MALE SIGN",
+        "char": "⚤"
+    },
+    { "hex": "&#26A5;", "name": "MALE AND FEMALE SIGN", "char": "⚥" },
+    { "hex": "&#26A6;", "name": "MALE WITH STROKE SIGN", "char": "⚦" },
+    {
+        "hex": "&#26A7;",
+        "name": "MALE WITH STROKE AND MALE AND FEMALE SIGN",
+        "char": "⚧"
+    },
+    { "hex": "&#26A8;", "name": "VERTICAL MALE WITH STROKE SIGN", "char": "⚨" },
+    {
+        "hex": "&#26A9;",
+        "name": "HORIZONTAL MALE WITH STROKE SIGN",
+        "char": "⚩"
+    },
+    { "hex": "&#26AA;", "name": "MEDIUM WHITE CIRCLE", "char": "⚪" },
+    { "hex": "&#26AB;", "name": "MEDIUM BLACK CIRCLE", "char": "⚫" },
+    { "hex": "&#26AC;", "name": "MEDIUM SMALL WHITE CIRCLE", "char": "⚬" },
+    { "hex": "&#26AD;", "name": "MARRIAGE SYMBOL", "char": "⚭" },
+    { "hex": "&#26AE;", "name": "DIVORCE SYMBOL", "char": "⚮" },
+    { "hex": "&#26AF;", "name": "UNMARRIED PARTNERSHIP SYMBOL", "char": "⚯" },
+    { "hex": "&#26B0;", "name": "COFFIN", "char": "⚰" },
+    { "hex": "&#26B1;", "name": "FUNERAL URN", "char": "⚱" },
+    { "hex": "&#26B2;", "name": "NEUTER", "char": "⚲" },
+    { "entity": "&#9907;", "hex": "&#26B3;", "name": "CERES", "char": "⚳" },
+    { "hex": "&#26B4;", "name": "PALLAS", "char": "⚴" },
+    { "hex": "&#26B5;", "name": "JUNO", "char": "⚵" },
+    { "hex": "&#26B6;", "name": "VESTA", "char": "⚶" },
+    { "hex": "&#26B7;", "name": "CHIRON", "char": "⚷" },
+    { "hex": "&#26B8;", "name": "BLACK MOON LILITH", "char": "⚸" },
+
+    { "hex": "&#2701;", "name": "UPPER BLADE SCISSORS", "char": "✁" },
+    { "hex": "&#2702;", "name": "BLACK SCISSORS", "char": "✂" },
+    { "hex": "&#2703;", "name": "LOWER BLADE SCISSORS", "char": "✃" },
+    { "hex": "&#2704;", "name": "WHITE SCISSORS", "char": "✄" },
+    { "hex": "&#2706;", "name": "TELEPHONE LOCATION SIGN", "char": "✆" },
+    { "hex": "&#2707;", "name": "TAPE DRIVE", "char": "✇" },
+    { "hex": "&#2708;", "name": "AIRPLANE", "char": "✈" },
+    { "hex": "&#2709;", "name": "ENVELOPE", "char": "✉" },
+    { "hex": "&#270C;", "name": "VICTORY HAND", "char": "✌" },
+    { "hex": "&#270D;", "name": "WRITING HAND", "char": "✍" },
+    { "hex": "&#270E;", "name": "LOWER RIGHT PENCIL", "char": "✎" },
+    { "hex": "&#270F;", "name": "PENCIL", "char": "✏" },
+    { "hex": "&#2710;", "name": "UPPER RIGHT PENCIL", "char": "✐" },
+    { "hex": "&#2711;", "name": "WHITE NIB", "char": "✑" },
+    { "hex": "&#2712;", "name": "BLACK NIB", "char": "✒" },
+    { "hex": "&#2713;", "name": "CHECK MARK", "char": "✓" },
+    { "hex": "&#2714;", "name": "HEAVY CHECK MARK", "char": "✔" },
+    { "hex": "&#2715;", "name": "MULTIPLICATION X", "char": "✕" },
+    { "hex": "&#2716;", "name": "HEAVY MULTIPLICATION X", "char": "✖" },
+    { "hex": "&#2717;", "name": "BALLOT X", "char": "✗" },
+    { "hex": "&#2718;", "name": "HEAVY BALLOT X", "char": "✘" },
+    { "hex": "&#2719;", "name": "OUTLINED GREEK CROSS", "char": "✙" },
+    { "hex": "&#271A;", "name": "HEAVY GREEK CROSS", "char": "✚" },
+    { "hex": "&#271B;", "name": "OPEN CENTRE CROSS", "char": "✛" },
+    { "hex": "&#271C;", "name": "HEAVY OPEN CENTRE CROSS", "char": "✜" },
+    { "hex": "&#271D;", "name": "LATIN CROSS", "char": "✝" },
+    { "hex": "&#271E;", "name": "SHADOWED WHITE LATIN CROSS", "char": "✞" },
+    { "hex": "&#271F;", "name": "OUTLINED LATIN CROSS", "char": "✟" },
+    { "hex": "&#2720;", "name": "MALTESE CROSS", "char": "✠" },
+    { "hex": "&#2721;", "name": "STAR OF DAVID", "char": "✡" },
+    { "hex": "&#2722;", "name": "FOUR TEARDROP-SPOKED ASTERISK", "char": "✢" },
+    { "hex": "&#2723;", "name": "FOUR BALLOON-SPOKED ASTERISK", "char": "✣" },
+    {
+        "hex": "&#2724;",
+        "name": "HEAVY FOUR BALLOON-SPOKED ASTERISK",
+        "char": "✤"
+    },
+    { "hex": "&#2725;", "name": "FOUR CLUB-SPOKED ASTERISK", "char": "✥" },
+    { "hex": "&#2726;", "name": "BLACK FOUR POINTED STAR", "char": "✦" },
+    { "hex": "&#2727;", "name": "WHITE FOUR POINTED STAR", "char": "✧" },
+    { "hex": "&#2729;", "name": "STRESS OUTLINED WHITE STAR", "char": "✩" },
+    { "hex": "&#272A;", "name": "CIRCLED WHITE STAR", "char": "✪" },
+    { "hex": "&#272B;", "name": "OPEN CENTRE BLACK STAR", "char": "✫" },
+    { "hex": "&#272C;", "name": "BLACK CENTRE WHITE STAR", "char": "✬" },
+    { "hex": "&#272D;", "name": "OUTLINED BLACK STAR", "char": "✭" },
+    { "hex": "&#272E;", "name": "HEAVY OUTLINED BLACK STAR", "char": "✮" },
+    { "hex": "&#272F;", "name": "PINWHEEL STAR", "char": "✯" },
+    { "hex": "&#2730;", "name": "SHADOWED WHITE STAR", "char": "✰" },
+    { "hex": "&#2731;", "name": "HEAVY ASTERISK", "char": "✱" },
+    { "hex": "&#2732;", "name": "OPEN CENTRE ASTERISK", "char": "✲" },
+    { "hex": "&#2733;", "name": "EIGHT SPOKED ASTERISK", "char": "✳" },
+    { "hex": "&#2734;", "name": "EIGHT POINTED BLACK STAR", "char": "✴" },
+    { "hex": "&#2735;", "name": "EIGHT POINTED PINWHEEL STAR", "char": "✵" },
+    { "hex": "&#2736;", "name": "SIX POINTED BLACK STAR", "char": "✶" },
+    {
+        "hex": "&#2737;",
+        "name": "EIGHT POINTED RECTILINEAR BLACK STAR",
+        "char": "✷"
+    },
+    {
+        "hex": "&#2738;",
+        "name": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR",
+        "char": "✸"
+    },
+    { "hex": "&#2739;", "name": "TWELVE POINTED BLACK STAR", "char": "✹" },
+    { "hex": "&#273A;", "name": "SIXTEEN POINTED ASTERISK", "char": "✺" },
+    { "hex": "&#273B;", "name": "TEARDROP-SPOKED ASTERISK", "char": "✻" },
+    {
+        "hex": "&#273C;",
+        "name": "OPEN CENTRE TEARDROP-SPOKED ASTERISK",
+        "char": "✼"
+    },
+    { "hex": "&#273D;", "name": "HEAVY TEARDROP-SPOKED ASTERISK", "char": "✽" },
+    {
+        "hex": "&#273E;",
+        "name": "SIX PETALLED BLACK AND WHITE FLORETTE",
+        "char": "✾"
+    },
+    { "hex": "&#273F;", "name": "BLACK FLORETTE", "char": "✿" },
+    { "hex": "&#2740;", "name": "WHITE FLORETTE", "char": "❀" },
+    {
+        "hex": "&#2741;",
+        "name": "EIGHT PETALLED OUTLINED BLACK FLORETTE",
+        "char": "❁"
+    },
+    {
+        "hex": "&#2742;",
+        "name": "CIRCLED OPEN CENTRE EIGHT POINTED STAR",
+        "char": "❂"
+    },
+    {
+        "hex": "&#2743;",
+        "name": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK",
+        "char": "❃"
+    },
+    { "hex": "&#2744;", "name": "SNOWFLAKE", "char": "❄" },
+    { "hex": "&#2745;", "name": "TIGHT TRIFOLIATE SNOWFLAKE", "char": "❅" },
+    { "hex": "&#2746;", "name": "HEAVY CHEVRON SNOWFLAKE", "char": "❆" },
+    { "hex": "&#2747;", "name": "SPARKLE", "char": "❇" },
+    { "hex": "&#2748;", "name": "HEAVY SPARKLE", "char": "❈" },
+    { "hex": "&#2749;", "name": "BALLOON-SPOKED ASTERISK", "char": "❉" },
+    {
+        "hex": "&#274A;",
+        "name": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+        "char": "❊"
+    },
+    {
+        "hex": "&#274B;",
+        "name": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+        "char": "❋"
+    },
+    { "hex": "&#274D;", "name": "SHADOWED WHITE CIRCLE", "char": "❍" },
+    {
+        "hex": "&#274F;",
+        "name": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE",
+        "char": "❏"
+    },
+    {
+        "hex": "&#2750;",
+        "name": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE",
+        "char": "❐"
+    },
+    {
+        "hex": "&#2751;",
+        "name": "LOWER RIGHT SHADOWED WHITE SQUARE",
+        "char": "❑"
+    },
+    {
+        "hex": "&#2752;",
+        "name": "UPPER RIGHT SHADOWED WHITE SQUARE",
+        "char": "❒"
+    },
+    { "hex": "&#2756;", "name": "BLACK DIAMOND MINUS WHITE X", "char": "❖" },
+    { "hex": "&#2758;", "name": "LIGHT VERTICAL BAR", "char": "❘" },
+    { "hex": "&#2759;", "name": "MEDIUM VERTICAL BAR", "char": "❙" },
+    { "hex": "&#275A;", "name": "HEAVY VERTICAL BAR", "char": "❚" },
+    {
+        "hex": "&#275B;",
+        "name": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT",
+        "char": "❛"
+    },
+    {
+        "hex": "&#275C;",
+        "name": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT",
+        "char": "❜"
+    },
+    {
+        "hex": "&#275D;",
+        "name": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
+        "char": "❝"
+    },
+    {
+        "hex": "&#275E;",
+        "name": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
+        "char": "❞"
+    },
+    {
+        "hex": "&#2761;",
+        "name": "CURVED STEM PARAGRAPH SIGN ORNAMENT",
+        "char": "❡"
+    },
+    {
+        "hex": "&#2762;",
+        "name": "HEAVY EXCLAMATION MARK ORNAMENT",
+        "char": "❢"
+    },
+    {
+        "hex": "&#2763;",
+        "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+        "char": "❣"
+    },
+    { "hex": "&#2764;", "name": "HEAVY BLACK HEART", "char": "❤" },
+    {
+        "hex": "&#2765;",
+        "name": "ROTATED HEAVY BLACK HEART BULLET",
+        "char": "❥"
+    },
+    { "hex": "&#2766;", "name": "FLORAL HEART", "char": "❦" },
+    { "hex": "&#2767;", "name": "ROTATED FLORAL HEART BULLET", "char": "❧" },
+    {
+        "hex": "&#2768;",
+        "name": "MEDIUM LEFT PARENTHESIS ORNAMENT",
+        "char": "❨"
+    },
+    {
+        "hex": "&#2769;",
+        "name": "MEDIUM RIGHT PARENTHESIS ORNAMENT",
+        "char": "❩"
+    },
+    {
+        "hex": "&#276A;",
+        "name": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT",
+        "char": "❪"
+    },
+    {
+        "hex": "&#276B;",
+        "name": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT",
+        "char": "❫"
+    },
+    {
+        "hex": "&#276C;",
+        "name": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT",
+        "char": "❬"
+    },
+    {
+        "hex": "&#276D;",
+        "name": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+        "char": "❭"
+    },
+    {
+        "hex": "&#276E;",
+        "name": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+        "char": "❮"
+    },
+    {
+        "hex": "&#276F;",
+        "name": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+        "char": "❯"
+    },
+    {
+        "hex": "&#2770;",
+        "name": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT",
+        "char": "❰"
+    },
+    {
+        "hex": "&#2771;",
+        "name": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+        "char": "❱"
+    },
+    {
+        "hex": "&#2772;",
+        "name": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT",
+        "char": "❲"
+    },
+    {
+        "hex": "&#2773;",
+        "name": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT",
+        "char": "❳"
+    },
+    {
+        "hex": "&#2774;",
+        "name": "MEDIUM LEFT CURLY BRACKET ORNAMENT",
+        "char": "❴"
+    },
+    {
+        "hex": "&#2775;",
+        "name": "MEDIUM RIGHT CURLY BRACKET ORNAMENT",
+        "char": "❵"
+    },
+    {
+        "hex": "&#2776;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT ONE",
+        "char": "❶"
+    },
+    {
+        "hex": "&#2777;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT TWO",
+        "char": "❷"
+    },
+    {
+        "hex": "&#2778;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT THREE",
+        "char": "❸"
+    },
+    {
+        "hex": "&#2779;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR",
+        "char": "❹"
+    },
+    {
+        "hex": "&#277A;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE",
+        "char": "❺"
+    },
+    {
+        "hex": "&#277B;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT SIX",
+        "char": "❻"
+    },
+    {
+        "hex": "&#277C;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN",
+        "char": "❼"
+    },
+    {
+        "hex": "&#277D;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT",
+        "char": "❽"
+    },
+    {
+        "hex": "&#277E;",
+        "name": "DINGBAT NEGATIVE CIRCLED DIGIT NINE",
+        "char": "❾"
+    },
+    {
+        "hex": "&#277F;",
+        "name": "DINGBAT NEGATIVE CIRCLED NUMBER TEN",
+        "char": "❿"
+    },
+    {
+        "hex": "&#2780;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE",
+        "char": "➀"
+    },
+    {
+        "hex": "&#2781;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO",
+        "char": "➁"
+    },
+    {
+        "hex": "&#2782;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE",
+        "char": "➂"
+    },
+    {
+        "hex": "&#2783;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR",
+        "char": "➃"
+    },
+    {
+        "hex": "&#2784;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE",
+        "char": "➄"
+    },
+    {
+        "hex": "&#2785;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX",
+        "char": "➅"
+    },
+    {
+        "hex": "&#2786;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN",
+        "char": "➆"
+    },
+    {
+        "hex": "&#2787;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT",
+        "char": "➇"
+    },
+    {
+        "hex": "&#2788;",
+        "name": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE",
+        "char": "➈"
+    },
+    {
+        "hex": "&#2789;",
+        "name": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN",
+        "char": "➉"
+    },
+    {
+        "hex": "&#278A;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE",
+        "char": "➊"
+    },
+    {
+        "hex": "&#278B;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO",
+        "char": "➋"
+    },
+    {
+        "hex": "&#278C;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE",
+        "char": "➌"
+    },
+    {
+        "hex": "&#278D;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR",
+        "char": "➍"
+    },
+    {
+        "hex": "&#278E;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE",
+        "char": "➎"
+    },
+    {
+        "hex": "&#278F;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX",
+        "char": "➏"
+    },
+    {
+        "hex": "&#2790;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN",
+        "char": "➐"
+    },
+    {
+        "hex": "&#2791;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT",
+        "char": "➑"
+    },
+    {
+        "hex": "&#2792;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE",
+        "char": "➒"
+    },
+    {
+        "hex": "&#2793;",
+        "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN",
+        "char": "➓"
+    }
+]

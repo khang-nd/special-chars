@@ -1,0 +1,22 @@
+{
+  "name": "special-chars",
+  "version": "0.1.1",
+  "description": "Just special characters.",
+  "homepage": "https://github.com/khang-nd/special-chars",
+  "main": "dist/index.js",
+  "keywords": [
+    "spc",
+    "special-chars",
+    "unicode"
+  ],
+  "author": "khang-nd",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js",
+    "release": "npm run build && npm publish"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "umd": "^3.0.3"
+  }
+}

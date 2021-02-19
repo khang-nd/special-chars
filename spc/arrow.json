@@ -1,0 +1,1216 @@
+[
+    {
+        "entity": "&larr;",
+        "hex": "&#2190;",
+        "name": "LEFTWARDS ARROW",
+        "char": "←"
+    },
+    {
+        "entity": "&uarr;",
+        "hex": "&#2191;",
+        "name": "UPWARDS ARROW",
+        "char": "↑"
+    },
+    {
+        "entity": "&rarr;",
+        "hex": "&#2192;",
+        "name": "RIGHTWARDS ARROW",
+        "char": "→"
+    },
+    {
+        "entity": "&darr;",
+        "hex": "&#2193;",
+        "name": "DOWNWARDS ARROW",
+        "char": "↓"
+    },
+    {
+        "entity": "&harr;",
+        "hex": "&#2194;",
+        "name": "LEFT RIGHT ARROW",
+        "char": "↔"
+    },
+    { "hex": "&#2195;", "name": "UP DOWN ARROW", "char": "↕" },
+    { "hex": "&#2196;", "name": "NORTH WEST ARROW", "char": "↖" },
+    { "hex": "&#2197;", "name": "NORTH EAST ARROW", "char": "↗" },
+    { "hex": "&#2198;", "name": "SOUTH EAST ARROW", "char": "↘" },
+    { "hex": "&#2199;", "name": "SOUTH WEST ARROW", "char": "↙" },
+    {
+        "hex": "&#219A;",
+        "name": "LEFTWARDS ARROW WITH STROKE",
+        "char": "↚"
+    },
+    {
+        "hex": "&#219B;",
+        "name": "RIGHTWARDS ARROW WITH STROKE",
+        "char": "↛"
+    },
+    { "hex": "&#219C;", "name": "LEFTWARDS WAVE ARROW", "char": "↜" },
+    { "hex": "&#219D;", "name": "RIGHTWARDS WAVE ARROW", "char": "↝" },
+    { "hex": "&#219E;", "name": "LEFTWARDS TWO HEADED ARROW", "char": "↞" },
+    { "hex": "&#219F;", "name": "UPWARDS TWO HEADED ARROW", "char": "↟" },
+    {
+        "hex": "&#21A0;",
+        "name": "RIGHTWARDS TWO HEADED ARROW",
+        "char": "↠"
+    },
+    { "hex": "&#21A1;", "name": "DOWNWARDS TWO HEADED ARROW", "char": "↡" },
+    { "hex": "&#21A2;", "name": "LEFTWARDS ARROW WITH TAIL", "char": "↢" },
+    { "hex": "&#21A3;", "name": "RIGHTWARDS ARROW WITH TAIL", "char": "↣" },
+    { "hex": "&#21A4;", "name": "LEFTWARDS ARROW FROM BAR", "char": "↤" },
+    { "hex": "&#21A5;", "name": "UPWARDS ARROW FROM BAR", "char": "↥" },
+    { "hex": "&#21A6;", "name": "RIGHTWARDS ARROW FROM BAR", "char": "↦" },
+    { "hex": "&#21A7;", "name": "DOWNWARDS ARROW FROM BAR", "char": "↧" },
+    { "hex": "&#21A8;", "name": "UP DOWN ARROW WITH BASE", "char": "↨" },
+    { "hex": "&#21A9;", "name": "LEFTWARDS ARROW WITH HOOK", "char": "↩" },
+    { "hex": "&#21AA;", "name": "RIGHTWARDS ARROW WITH HOOK", "char": "↪" },
+    { "hex": "&#21AB;", "name": "LEFTWARDS ARROW WITH LOOP", "char": "↫" },
+    { "hex": "&#21AC;", "name": "RIGHTWARDS ARROW WITH LOOP", "char": "↬" },
+    { "hex": "&#21AD;", "name": "LEFT RIGHT WAVE ARROW", "char": "↭" },
+    {
+        "hex": "&#21AE;",
+        "name": "LEFT RIGHT ARROW WITH STROKE",
+        "char": "↮"
+    },
+    { "hex": "&#21AF;", "name": "DOWNWARDS ZIGZAG ARROW", "char": "↯" },
+    {
+        "hex": "&#21B0;",
+        "name": "UPWARDS ARROW WITH TIP LEFTWARDS",
+        "char": "↰"
+    },
+    {
+        "hex": "&#21B1;",
+        "name": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+        "char": "↱"
+    },
+    {
+        "hex": "&#21B2;",
+        "name": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+        "char": "↲"
+    },
+    {
+        "hex": "&#21B3;",
+        "name": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+        "char": "↳"
+    },
+    {
+        "hex": "&#21B4;",
+        "name": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+        "char": "↴"
+    },
+    {
+        "entity": "&crarr;",
+        "hex": "&#21B5;",
+        "name": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+        "char": "↵"
+    },
+    {
+        "hex": "&#21B6;",
+        "name": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+        "char": "↶"
+    },
+    {
+        "hex": "&#21B7;",
+        "name": "CLOCKWISE TOP SEMICIRCLE ARROW",
+        "char": "↷"
+    },
+    {
+        "hex": "&#21B8;",
+        "name": "NORTH WEST ARROW TO LONG BAR",
+        "char": "↸"
+    },
+    {
+        "hex": "&#21B9;",
+        "name": "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
+        "char": "↹"
+    },
+    {
+        "hex": "&#21BA;",
+        "name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+        "char": "↺"
+    },
+    {
+        "hex": "&#21BB;",
+        "name": "CLOCKWISE OPEN CIRCLE ARROW",
+        "char": "↻"
+    },
+    {
+        "hex": "&#21BC;",
+        "name": "LEFTWARDS HARPOON WITH BARB UPWARDS",
+        "char": "↼"
+    },
+    {
+        "hex": "&#21BD;",
+        "name": "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+        "char": "↽"
+    },
+    {
+        "hex": "&#21BE;",
+        "name": "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+        "char": "↾"
+    },
+    {
+        "hex": "&#21BF;",
+        "name": "UPWARDS HARPOON WITH BARB LEFTWARDS",
+        "char": "↿"
+    },
+    {
+        "hex": "&#21C0;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+        "char": "⇀"
+    },
+    {
+        "hex": "&#21C1;",
+        "name": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+        "char": "⇁"
+    },
+    {
+        "hex": "&#21C2;",
+        "name": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+        "char": "⇂"
+    },
+    {
+        "hex": "&#21C3;",
+        "name": "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+        "char": "⇃"
+    },
+    {
+        "hex": "&#21C4;",
+        "name": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+        "char": "⇄"
+    },
+    {
+        "hex": "&#21C5;",
+        "name": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+        "char": "⇅"
+    },
+    {
+        "hex": "&#21C6;",
+        "name": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+        "char": "⇆"
+    },
+    { "hex": "&#21C7;", "name": "LEFTWARDS PAIRED ARROWS", "char": "⇇" },
+    { "hex": "&#21C8;", "name": "UPWARDS PAIRED ARROWS", "char": "⇈" },
+    { "hex": "&#21C9;", "name": "RIGHTWARDS PAIRED ARROWS", "char": "⇉" },
+    { "hex": "&#21CA;", "name": "DOWNWARDS PAIRED ARROWS", "char": "⇊" },
+    {
+        "hex": "&#21CB;",
+        "name": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+        "char": "⇋"
+    },
+    {
+        "hex": "&#21CC;",
+        "name": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+        "char": "⇌"
+    },
+    {
+        "hex": "&#21CD;",
+        "name": "LEFTWARDS DOUBLE ARROW WITH STROKE",
+        "char": "⇍"
+    },
+    {
+        "hex": "&#21CE;",
+        "name": "LEFT RIGHT DOUBLE ARROW WITH STROKE",
+        "char": "⇎"
+    },
+    {
+        "hex": "&#21CF;",
+        "name": "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+        "char": "⇏"
+    },
+    {
+        "entity": "&lArr;",
+        "hex": "&#21D0;",
+        "name": "LEFTWARDS DOUBLE ARROW",
+        "char": "⇐"
+    },
+    {
+        "entity": "&uArr;",
+        "hex": "&#21D1;",
+        "name": "UPWARDS DOUBLE ARROW",
+        "char": "⇑"
+    },
+    {
+        "entity": "&rArr;",
+        "hex": "&#21D2;",
+        "name": "RIGHTWARDS DOUBLE ARROW",
+        "char": "⇒"
+    },
+    {
+        "entity": "&dArr;",
+        "hex": "&#21D3;",
+        "name": "DOWNWARDS DOUBLE ARROW",
+        "char": "⇓"
+    },
+    {
+        "entity": "&hArr;",
+        "hex": "&#21D4;",
+        "name": "LEFT RIGHT DOUBLE ARROW",
+        "char": "⇔"
+    },
+    { "hex": "&#21D5;", "name": "UP DOWN DOUBLE ARROW", "char": "⇕" },
+    { "hex": "&#21D6;", "name": "NORTH WEST DOUBLE ARROW", "char": "⇖" },
+    { "hex": "&#21D7;", "name": "NORTH EAST DOUBLE ARROW", "char": "⇗" },
+    { "hex": "&#21D8;", "name": "SOUTH EAST DOUBLE ARROW", "char": "⇘" },
+    { "hex": "&#21D9;", "name": "SOUTH WEST DOUBLE ARROW", "char": "⇙" },
+    { "hex": "&#21DA;", "name": "LEFTWARDS TRIPLE ARROW", "char": "⇚" },
+    { "hex": "&#21DB;", "name": "RIGHTWARDS TRIPLE ARROW", "char": "⇛" },
+    { "hex": "&#21DC;", "name": "LEFTWARDS SQUIGGLE ARROW", "char": "⇜" },
+    { "hex": "&#21DD;", "name": "RIGHTWARDS SQUIGGLE ARROW", "char": "⇝" },
+    {
+        "hex": "&#21DE;",
+        "name": "UPWARDS ARROW WITH DOUBLE STROKE",
+        "char": "⇞"
+    },
+    {
+        "hex": "&#21DF;",
+        "name": "DOWNWARDS ARROW WITH DOUBLE STROKE",
+        "char": "⇟"
+    },
+    { "hex": "&#21E0;", "name": "LEFTWARDS DASHED ARROW", "char": "⇠" },
+    { "hex": "&#21E1;", "name": "UPWARDS DASHED ARROW", "char": "⇡" },
+    { "hex": "&#21E2;", "name": "RIGHTWARDS DASHED ARROW", "char": "⇢" },
+    { "hex": "&#21E3;", "name": "DOWNWARDS DASHED ARROW", "char": "⇣" },
+    { "hex": "&#21E4;", "name": "LEFTWARDS ARROW TO BAR", "char": "⇤" },
+    { "hex": "&#21E5;", "name": "RIGHTWARDS ARROW TO BAR", "char": "⇥" },
+    { "hex": "&#21E6;", "name": "LEFTWARDS WHITE ARROW", "char": "⇦" },
+    { "hex": "&#21E7;", "name": "UPWARDS WHITE ARROW", "char": "⇧" },
+    { "hex": "&#21E8;", "name": "RIGHTWARDS WHITE ARROW", "char": "⇨" },
+    { "hex": "&#21E9;", "name": "DOWNWARDS WHITE ARROW", "char": "⇩" },
+    {
+        "hex": "&#21EA;",
+        "name": "UPWARDS WHITE ARROW FROM BAR",
+        "char": "⇪"
+    },
+    {
+        "hex": "&#21EB;",
+        "name": "UPWARDS WHITE ARROW ON PEDESTAL",
+        "char": "⇫"
+    },
+    {
+        "hex": "&#21EC;",
+        "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR",
+        "char": "⇬"
+    },
+    {
+        "hex": "&#21ED;",
+        "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR",
+        "char": "⇭"
+    },
+    { "hex": "&#21EE;", "name": "UPWARDS WHITE DOUBLE ARROW", "char": "⇮" },
+    {
+        "hex": "&#21EF;",
+        "name": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL",
+        "char": "⇯"
+    },
+    {
+        "hex": "&#21F0;",
+        "name": "RIGHTWARDS WHITE ARROW FROM WALL",
+        "char": "⇰"
+    },
+    { "hex": "&#21F1;", "name": "NORTH WEST ARROW TO CORNER", "char": "⇱" },
+    { "hex": "&#21F2;", "name": "SOUTH EAST ARROW TO CORNER", "char": "⇲" },
+    { "hex": "&#21F3;", "name": "UP DOWN WHITE ARROW", "char": "⇳" },
+    {
+        "hex": "&#21F4;",
+        "name": "RIGHT ARROW WITH SMALL CIRCLE",
+        "char": "⇴"
+    },
+    {
+        "hex": "&#21F5;",
+        "name": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW",
+        "char": "⇵"
+    },
+    { "hex": "&#21F6;", "name": "THREE RIGHTWARDS ARROWS", "char": "⇶" },
+    {
+        "hex": "&#21F7;",
+        "name": "LEFTWARDS ARROW WITH VERTICAL STROKE",
+        "char": "⇷"
+    },
+    {
+        "hex": "&#21F8;",
+        "name": "RIGHTWARDS ARROW WITH VERTICAL STROKE",
+        "char": "⇸"
+    },
+    {
+        "hex": "&#21F9;",
+        "name": "LEFT RIGHT ARROW WITH VERTICAL STROKE",
+        "char": "⇹"
+    },
+    {
+        "hex": "&#21FA;",
+        "name": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+        "char": "⇺"
+    },
+    {
+        "hex": "&#21FB;",
+        "name": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+        "char": "⇻"
+    },
+    {
+        "hex": "&#21FC;",
+        "name": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE",
+        "char": "⇼"
+    },
+    {
+        "hex": "&#21FD;",
+        "name": "LEFTWARDS OPEN-HEADED ARROW",
+        "char": "⇽"
+    },
+    {
+        "hex": "&#21FE;",
+        "name": "RIGHTWARDS OPEN-HEADED ARROW",
+        "char": "⇾"
+    },
+    { "hex": "&#21FF;", "name": "", "char": "⇿" },
+    { "hex": "&#2B00;", "name": "NORTH EAST WHITE ARROW", "char": "⬀" },
+    { "hex": "&#2B01;", "name": "NORTH WEST WHITE ARROW", "char": "⬁" },
+    { "hex": "&#2B02;", "name": "SOUTH EAST WHITE ARROW", "char": "⬂" },
+    { "hex": "&#2B03;", "name": "SOUTH WEST WHITE ARROW", "char": "⬃" },
+    { "hex": "&#2B04;", "name": "LEFT RIGHT WHITE ARROW", "char": "⬄" },
+    { "hex": "&#2B05;", "name": "LEFTWARDS BLACK ARROW", "char": "⬅" },
+    { "hex": "&#2B06;", "name": "UPWARDS BLACK ARROW", "char": "⬆" },
+    { "hex": "&#2B07;", "name": "DOWNWARDS BLACK ARROW", "char": "⬇" },
+    { "hex": "&#2B08;", "name": "NORTH EAST BLACK ARROW", "char": "⬈" },
+    { "hex": "&#2B09;", "name": "NORTH WEST BLACK ARROW", "char": "⬉" },
+    { "hex": "&#2B0A;", "name": "SOUTH EAST BLACK ARROW", "char": "⬊" },
+    { "hex": "&#2B0B;", "name": "SOUTH WEST BLACK ARROW", "char": "⬋" },
+    { "hex": "&#2B0C;", "name": "LEFT RIGHT BLACK ARROW", "char": "⬌" },
+    { "hex": "&#2B0D;", "name": "UP DOWN BLACK ARROW", "char": "⬍" },
+    {
+        "hex": "&#2B0E;",
+        "name": "RIGHTWARDS ARROW WITH TIP DOWNWARDS",
+        "char": "⬎"
+    },
+    {
+        "hex": "&#2B0F;",
+        "name": "RIGHTWARDS ARROW WITH TIP UPWARDS",
+        "char": "⬏"
+    },
+    {
+        "hex": "&#2B10;",
+        "name": "LEFTWARDS ARROW WITH TIP DOWNWARDS",
+        "char": "⬐"
+    },
+    {
+        "hex": "&#2B11;",
+        "name": "LEFTWARDS ARROW WITH TIP UPWARDS",
+        "char": "⬑"
+    },
+
+    {
+        "hex": "&#2794;",
+        "name": "HEAVY WIDE-HEADED RIGHTWARDS ARROW",
+        "char": "➔"
+    },
+    { "hex": "&#2798;", "name": "HEAVY SOUTH EAST ARROW", "char": "➘" },
+    { "hex": "&#2799;", "name": "HEAVY RIGHTWARDS ARROW", "char": "➙" },
+    { "hex": "&#279A;", "name": "HEAVY NORTH EAST ARROW", "char": "➚" },
+    {
+        "hex": "&#279B;",
+        "name": "DRAFTING POINT RIGHTWARDS ARROW",
+        "char": "➛"
+    },
+    {
+        "hex": "&#279C;",
+        "name": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW",
+        "char": "➜"
+    },
+    {
+        "hex": "&#279D;",
+        "name": "TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "char": "➝"
+    },
+    {
+        "hex": "&#279E;",
+        "name": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "char": "➞"
+    },
+    {
+        "hex": "&#279F;",
+        "name": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "char": "➟"
+    },
+    {
+        "hex": "&#27A0;",
+        "name": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "char": "➠"
+    },
+    { "hex": "&#27A1;", "name": "BLACK RIGHTWARDS ARROW", "char": "➡" },
+    {
+        "hex": "&#27A2;",
+        "name": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD",
+        "char": "➢"
+    },
+    {
+        "hex": "&#27A3;",
+        "name": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD",
+        "char": "➣"
+    },
+    { "hex": "&#27A4;", "name": "BLACK RIGHTWARDS ARROWHEAD", "char": "➤" },
+    {
+        "hex": "&#27A5;",
+        "name": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
+        "char": "➥"
+    },
+    {
+        "hex": "&#27A6;",
+        "name": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
+        "char": "➦"
+    },
+    {
+        "hex": "&#27A7;",
+        "name": "SQUAT BLACK RIGHTWARDS ARROW",
+        "char": "➧"
+    },
+    {
+        "hex": "&#27A8;",
+        "name": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW",
+        "char": "➨"
+    },
+    {
+        "hex": "&#27A9;",
+        "name": "RIGHT-SHADED WHITE RIGHTWARDS ARROW",
+        "char": "➩"
+    },
+    {
+        "hex": "&#27AA;",
+        "name": "LEFT-SHADED WHITE RIGHTWARDS ARROW",
+        "char": "➪"
+    },
+    {
+        "hex": "&#27AB;",
+        "name": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➫"
+    },
+    {
+        "hex": "&#27AC;",
+        "name": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➬"
+    },
+    {
+        "hex": "&#27AD;",
+        "name": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➭"
+    },
+    {
+        "hex": "&#27AE;",
+        "name": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➮"
+    },
+    {
+        "hex": "&#27AF;",
+        "name": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➯"
+    },
+    {
+        "hex": "&#27B1;",
+        "name": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "char": "➱"
+    },
+    {
+        "hex": "&#27B2;",
+        "name": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW",
+        "char": "➲"
+    },
+    {
+        "hex": "&#27B3;",
+        "name": "WHITE-FEATHERED RIGHTWARDS ARROW",
+        "char": "➳"
+    },
+    {
+        "hex": "&#27B4;",
+        "name": "BLACK-FEATHERED SOUTH EAST ARROW",
+        "char": "➴"
+    },
+    {
+        "hex": "&#27B5;",
+        "name": "BLACK-FEATHERED RIGHTWARDS ARROW",
+        "char": "➵"
+    },
+    {
+        "hex": "&#27B6;",
+        "name": "BLACK-FEATHERED NORTH EAST ARROW",
+        "char": "➶"
+    },
+    {
+        "hex": "&#27B7;",
+        "name": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW",
+        "char": "➷"
+    },
+    {
+        "hex": "&#27B8;",
+        "name": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW",
+        "char": "➸"
+    },
+    {
+        "hex": "&#27B9;",
+        "name": "HEAVY BLACK-FEATHERED NORTH EAST ARROW",
+        "char": "➹"
+    },
+    {
+        "hex": "&#27BA;",
+        "name": "TEARDROP-BARBED RIGHTWARDS ARROW",
+        "char": "➺"
+    },
+    {
+        "hex": "&#27BB;",
+        "name": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW",
+        "char": "➻"
+    },
+    {
+        "hex": "&#27BC;",
+        "name": "WEDGE-TAILED RIGHTWARDS ARROW",
+        "char": "➼"
+    },
+    {
+        "hex": "&#27BD;",
+        "name": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW",
+        "char": "➽"
+    },
+    {
+        "hex": "&#27BE;",
+        "name": "OPEN-OUTLINED RIGHTWARDS ARROW",
+        "char": "➾"
+    },
+
+    { "hex": "&#27F0;", "name": "UPWARDS QUADRUPLE ARROW", "char": "⟰" },
+    { "hex": "&#27F1;", "name": "DOWNWARDS QUADRUPLE ARROW", "char": "⟱" },
+    {
+        "hex": "&#27F2;",
+        "name": "ANTICLOCKWISE GAPPED CIRCLE ARROW",
+        "char": "⟲"
+    },
+    {
+        "hex": "&#27F3;",
+        "name": "CLOCKWISE GAPPED CIRCLE ARROW",
+        "char": "⟳"
+    },
+    {
+        "hex": "&#27F4;",
+        "name": "RIGHT ARROW WITH CIRCLED PLUS",
+        "char": "⟴"
+    },
+    { "hex": "&#27F5;", "name": "LONG LEFTWARDS ARROW", "char": "⟵" },
+    { "hex": "&#27F6;", "name": "LONG RIGHTWARDS ARROW", "char": "⟶" },
+    { "hex": "&#27F7;", "name": "LONG LEFT RIGHT ARROW", "char": "⟷" },
+    {
+        "hex": "&#27F8;",
+        "name": "LONG LEFTWARDS DOUBLE ARROW",
+        "char": "⟸"
+    },
+    {
+        "hex": "&#27F9;",
+        "name": "LONG RIGHTWARDS DOUBLE ARROW",
+        "char": "⟹"
+    },
+    {
+        "hex": "&#27FA;",
+        "name": "LONG LEFT RIGHT DOUBLE ARROW",
+        "char": "⟺"
+    },
+    {
+        "hex": "&#27FB;",
+        "name": "LONG LEFTWARDS ARROW FROM BAR",
+        "char": "⟻"
+    },
+    {
+        "hex": "&#27FC;",
+        "name": "LONG RIGHTWARDS ARROW FROM BAR",
+        "char": "⟼"
+    },
+    {
+        "hex": "&#27FD;",
+        "name": "LONG LEFTWARDS DOUBLE ARROW FROM BAR",
+        "char": "⟽"
+    },
+    {
+        "hex": "&#27FE;",
+        "name": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR",
+        "char": "⟾"
+    },
+    {
+        "hex": "&#27FF;",
+        "name": "LONG RIGHTWARDS SQUIGGLE ARROW",
+        "char": "⟿"
+    },
+    {
+        "hex": "&#2900;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE",
+        "char": "⤀"
+    },
+    {
+        "hex": "&#2901;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE",
+        "char": "⤁"
+    },
+    {
+        "hex": "&#2902;",
+        "name": "LEFTWARDS DOUBLE ARROW WITH VERTICAL STROKE",
+        "char": "⤂"
+    },
+    {
+        "hex": "&#2903;",
+        "name": "RIGHTWARDS DOUBLE ARROW WITH VERTICAL STROKE",
+        "char": "⤃"
+    },
+    {
+        "hex": "&#2904;",
+        "name": "LEFT RIGHT DOUBLE ARROW WITH VERTICAL STROKE",
+        "char": "⤄"
+    },
+    {
+        "hex": "&#2905;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW FROM BAR",
+        "char": "⤅"
+    },
+    {
+        "hex": "&#2906;",
+        "name": "LEFTWARDS DOUBLE ARROW FROM BAR",
+        "char": "⤆"
+    },
+    {
+        "hex": "&#2907;",
+        "name": "RIGHTWARDS DOUBLE ARROW FROM BAR",
+        "char": "⤇"
+    },
+    {
+        "hex": "&#2908;",
+        "name": "DOWNWARDS ARROW WITH HORIZONTAL STROKE",
+        "char": "⤈"
+    },
+    {
+        "hex": "&#2909;",
+        "name": "UPWARDS ARROW WITH HORIZONTAL STROKE",
+        "char": "⤉"
+    },
+    { "hex": "&#290A;", "name": "UPWARDS TRIPLE ARROW", "char": "⤊" },
+    { "hex": "&#290B;", "name": "DOWNWARDS TRIPLE ARROW", "char": "⤋" },
+    {
+        "hex": "&#290C;",
+        "name": "LEFTWARDS DOUBLE DASH ARROW",
+        "char": "⤌"
+    },
+    {
+        "hex": "&#290D;",
+        "name": "RIGHTWARDS DOUBLE DASH ARROW",
+        "char": "⤍"
+    },
+    {
+        "hex": "&#290E;",
+        "name": "LEFTWARDS TRIPLE DASH ARROW",
+        "char": "⤎"
+    },
+    {
+        "hex": "&#290F;",
+        "name": "RIGHTWARDS TRIPLE DASH ARROW",
+        "char": "⤏"
+    },
+    {
+        "hex": "&#2910;",
+        "name": "RIGHTWARDS TWO-HEADED TRIPLE DASH ARROW",
+        "char": "⤐"
+    },
+    {
+        "hex": "&#2911;",
+        "name": "RIGHTWARDS ARROW WITH DOTTED STEM",
+        "char": "⤑"
+    },
+    { "hex": "&#2912;", "name": "UPWARDS ARROW TO BAR", "char": "⤒" },
+    { "hex": "&#2913;", "name": "DOWNWARDS ARROW TO BAR", "char": "⤓" },
+    {
+        "hex": "&#2914;",
+        "name": "RIGHTWARDS ARROW WITH TAIL WITH VERTICAL STROKE",
+        "char": "⤔"
+    },
+    {
+        "hex": "&#2915;",
+        "name": "RIGHTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+        "char": "⤕"
+    },
+    {
+        "hex": "&#2916;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL",
+        "char": "⤖"
+    },
+    {
+        "hex": "&#2917;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE",
+        "char": "⤗"
+    },
+    {
+        "hex": "&#2918;",
+        "name": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+        "char": "⤘"
+    },
+    { "hex": "&#2919;", "name": "LEFTWARDS ARROW-TAIL", "char": "⤙" },
+    { "hex": "&#291A;", "name": "RIGHTWARDS ARROW-TAIL", "char": "⤚" },
+    {
+        "hex": "&#291B;",
+        "name": "LEFTWARDS DOUBLE ARROW-TAIL",
+        "char": "⤛"
+    },
+    {
+        "hex": "&#291C;",
+        "name": "RIGHTWARDS DOUBLE ARROW-TAIL",
+        "char": "⤜"
+    },
+    {
+        "hex": "&#291D;",
+        "name": "LEFTWARDS ARROW TO BLACK DIAMOND",
+        "char": "⤝"
+    },
+    {
+        "hex": "&#291E;",
+        "name": "RIGHTWARDS ARROW TO BLACK DIAMOND",
+        "char": "⤞"
+    },
+    {
+        "hex": "&#291F;",
+        "name": "LEFTWARDS ARROW FROM BAR TO BLACK DIAMOND",
+        "char": "⤟"
+    },
+    {
+        "hex": "&#2920;",
+        "name": "RIGHTWARDS ARROW FROM BAR TO BLACK DIAMOND",
+        "char": "⤠"
+    },
+    {
+        "hex": "&#2921;",
+        "name": "NORTH WEST AND SOUTH EAST ARROW",
+        "char": "⤡"
+    },
+    {
+        "hex": "&#2922;",
+        "name": "NORTH EAST AND SOUTH WEST ARROW",
+        "char": "⤢"
+    },
+    { "hex": "&#2923;", "name": "NORTH WEST ARROW WITH HOOK", "char": "⤣" },
+    { "hex": "&#2924;", "name": "NORTH EAST ARROW WITH HOOK", "char": "⤤" },
+    { "hex": "&#2925;", "name": "SOUTH EAST ARROW WITH HOOK", "char": "⤥" },
+    { "hex": "&#2926;", "name": "SOUTH WEST ARROW WITH HOOK", "char": "⤦" },
+    {
+        "hex": "&#2927;",
+        "name": "NORTH WEST ARROW AND NORTH EAST ARROW",
+        "char": "⤧"
+    },
+    {
+        "hex": "&#2928;",
+        "name": "NORTH EAST ARROW AND SOUTH EAST ARROW",
+        "char": "⤨"
+    },
+    {
+        "hex": "&#2929;",
+        "name": "SOUTH EAST ARROW AND SOUTH WEST ARROW",
+        "char": "⤩"
+    },
+    {
+        "hex": "&#292A;",
+        "name": "SOUTH WEST ARROW AND NORTH WEST ARROW",
+        "char": "⤪"
+    },
+    {
+        "hex": "&#292B;",
+        "name": "RISING DIAGONAL CROSSING FALLING DIAGONAL",
+        "char": "⤫"
+    },
+    {
+        "hex": "&#292C;",
+        "name": "FALLING DIAGONAL CROSSING RISING DIAGONAL",
+        "char": "⤬"
+    },
+    {
+        "hex": "&#292D;",
+        "name": "SOUTH EAST ARROW CROSSING NORTH EAST ARROW",
+        "char": "⤭"
+    },
+    {
+        "hex": "&#292E;",
+        "name": "NORTH EAST ARROW CROSSING SOUTH EAST ARROW",
+        "char": "⤮"
+    },
+    {
+        "hex": "&#292F;",
+        "name": "FALLING DIAGONAL CROSSING NORTH EAST ARROW",
+        "char": "⤯"
+    },
+    {
+        "hex": "&#2930;",
+        "name": "RISING DIAGONAL CROSSING SOUTH EAST ARROW",
+        "char": "⤰"
+    },
+    {
+        "hex": "&#2931;",
+        "name": "NORTH EAST ARROW CROSSING NORTH WEST ARROW",
+        "char": "⤱"
+    },
+    {
+        "hex": "&#2932;",
+        "name": "NORTH WEST ARROW CROSSING NORTH EAST ARROW",
+        "char": "⤲"
+    },
+    {
+        "hex": "&#2933;",
+        "name": "WAVE ARROW POINTING DIRECTLY RIGHT",
+        "char": "⤳"
+    },
+    {
+        "hex": "&#2934;",
+        "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
+        "char": "⤴"
+    },
+    {
+        "hex": "&#2935;",
+        "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
+        "char": "⤵"
+    },
+    {
+        "hex": "&#2936;",
+        "name": "ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS",
+        "char": "⤶"
+    },
+    {
+        "hex": "&#2937;",
+        "name": "ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS",
+        "char": "⤷"
+    },
+    {
+        "hex": "&#2938;",
+        "name": "RIGHT-SIDE ARC CLOCKWISE ARROW",
+        "char": "⤸"
+    },
+    {
+        "hex": "&#2939;",
+        "name": "LEFT-SIDE ARC ANTICLOCKWISE ARROW",
+        "char": "⤹"
+    },
+    {
+        "hex": "&#293A;",
+        "name": "TOP ARC ANTICLOCKWISE ARROW",
+        "char": "⤺"
+    },
+    {
+        "hex": "&#293B;",
+        "name": "BOTTOM ARC ANTICLOCKWISE ARROW",
+        "char": "⤻"
+    },
+    {
+        "hex": "&#293C;",
+        "name": "TOP ARC CLOCKWISE ARROW WITH MINUS",
+        "char": "⤼"
+    },
+    {
+        "hex": "&#293D;",
+        "name": "TOP ARC ANTICLOCKWISE ARROW WITH PLUS",
+        "char": "⤽"
+    },
+    {
+        "hex": "&#293E;",
+        "name": "LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW",
+        "char": "⤾"
+    },
+    {
+        "hex": "&#293F;",
+        "name": "LOWER LEFT SEMICIRCULAR ANTICLOCKWISE ARROW",
+        "char": "⤿"
+    },
+    {
+        "hex": "&#2940;",
+        "name": "ANTICLOCKWISE CLOSED CIRCLE ARROW",
+        "char": "⥀"
+    },
+    {
+        "hex": "&#2941;",
+        "name": "CLOCKWISE CLOSED CIRCLE ARROW",
+        "char": "⥁"
+    },
+    {
+        "hex": "&#2942;",
+        "name": "RIGHTWARDS ARROW ABOVE SHORT LEFTWARDS ARROW",
+        "char": "⥂"
+    },
+    {
+        "hex": "&#2943;",
+        "name": "LEFTWARDS ARROW ABOVE SHORT RIGHTWARDS ARROW",
+        "char": "⥃"
+    },
+    {
+        "hex": "&#2944;",
+        "name": "SHORT RIGHTWARDS ARROW ABOVE LEFTWARDS ARROW",
+        "char": "⥄"
+    },
+    {
+        "hex": "&#2945;",
+        "name": "RIGHTWARDS ARROW WITH PLUS BELOW",
+        "char": "⥅"
+    },
+    {
+        "hex": "&#2946;",
+        "name": "LEFTWARDS ARROW WITH PLUS BELOW",
+        "char": "⥆"
+    },
+    { "hex": "&#2947;", "name": "RIGHTWARDS ARROW THROUGH X", "char": "⥇" },
+    {
+        "hex": "&#2948;",
+        "name": "LEFT RIGHT ARROW THROUGH SMALL CIRCLE",
+        "char": "⥈"
+    },
+    {
+        "hex": "&#2949;",
+        "name": "UPWARDS TWO-HEADED ARROW FROM SMALL CIRCLE",
+        "char": "⥉"
+    },
+    {
+        "hex": "&#294A;",
+        "name": "LEFT BARB UP RIGHT BARB DOWN HARPOON",
+        "char": "⥊"
+    },
+    {
+        "hex": "&#294B;",
+        "name": "LEFT BARB DOWN RIGHT BARB UP HARPOON",
+        "char": "⥋"
+    },
+    {
+        "hex": "&#294C;",
+        "name": "UP BARB RIGHT DOWN BARB LEFT HARPOON",
+        "char": "⥌"
+    },
+    {
+        "hex": "&#294D;",
+        "name": "UP BARB LEFT DOWN BARB RIGHT HARPOON",
+        "char": "⥍"
+    },
+    {
+        "hex": "&#294E;",
+        "name": "LEFT BARB UP RIGHT BARB UP HARPOON",
+        "char": "⥎"
+    },
+    {
+        "hex": "&#294F;",
+        "name": "UP BARB RIGHT DOWN BARB RIGHT HARPOON",
+        "char": "⥏"
+    },
+    {
+        "hex": "&#2950;",
+        "name": "LEFT BARB DOWN RIGHT BARB DOWN HARPOON",
+        "char": "⥐"
+    },
+    {
+        "hex": "&#2951;",
+        "name": "UP BARB LEFT DOWN BARB LEFT HARPOON",
+        "char": "⥑"
+    },
+    {
+        "hex": "&#2952;",
+        "name": "LEFTWARDS HARPOON WITH BARB UP TO BAR",
+        "char": "⥒"
+    },
+    {
+        "hex": "&#2953;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UP TO BAR",
+        "char": "⥓"
+    },
+    {
+        "hex": "&#2954;",
+        "name": "UPWARDS HARPOON WITH BARB RIGHT TO BAR",
+        "char": "⥔"
+    },
+    {
+        "hex": "&#2955;",
+        "name": "DOWNWARDS HARPOON WITH BARB RIGHT TO BAR",
+        "char": "⥕"
+    },
+    {
+        "hex": "&#2956;",
+        "name": "LEFTWARDS HARPOON WITH BARB DOWN TO BAR",
+        "char": "⥖"
+    },
+    {
+        "hex": "&#2957;",
+        "name": "RIGHTWARDS HARPOON WITH BARB DOWN TO BAR",
+        "char": "⥗"
+    },
+    {
+        "hex": "&#2958;",
+        "name": "UPWARDS HARPOON WITH BARB LEFT TO BAR",
+        "char": "⥘"
+    },
+    {
+        "hex": "&#2959;",
+        "name": "DOWNWARDS HARPOON WITH BARB LEFT TO BAR",
+        "char": "⥙"
+    },
+    {
+        "hex": "&#295A;",
+        "name": "LEFTWARDS HARPOON WITH BARB UP FROM BAR",
+        "char": "⥚"
+    },
+    {
+        "hex": "&#295B;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UP FROM BAR",
+        "char": "⥛"
+    },
+    {
+        "hex": "&#295C;",
+        "name": "UPWARDS HARPOON WITH BARB RIGHT FROM BAR",
+        "char": "⥜"
+    },
+    {
+        "hex": "&#295D;",
+        "name": "DOWNWARDS HARPOON WITH BARB RIGHT FROM BAR",
+        "char": "⥝"
+    },
+    {
+        "hex": "&#295E;",
+        "name": "LEFTWARDS HARPOON WITH BARB DOWN FROM BAR",
+        "char": "⥞"
+    },
+    {
+        "hex": "&#295F;",
+        "name": "RIGHTWARDS HARPOON WITH BARB DOWN FROM BAR",
+        "char": "⥟"
+    },
+    {
+        "hex": "&#2960;",
+        "name": "UPWARDS HARPOON WITH BARB LEFT FROM BAR",
+        "char": "⥠"
+    },
+    {
+        "hex": "&#2961;",
+        "name": "DOWNWARDS HARPOON WITH BARB LEFT FROM BAR",
+        "char": "⥡"
+    },
+    {
+        "hex": "&#2962;",
+        "name": "LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN",
+        "char": "⥢"
+    },
+    {
+        "hex": "&#2963;",
+        "name": "UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT",
+        "char": "⥣"
+    },
+    {
+        "hex": "&#2964;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN",
+        "char": "⥤"
+    },
+    {
+        "hex": "&#2965;",
+        "name": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT",
+        "char": "⥥"
+    },
+    {
+        "hex": "&#2966;",
+        "name": "LEFTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB UP",
+        "char": "⥦"
+    },
+    {
+        "hex": "&#2967;",
+        "name": "LEFTWARDS HARPOON WITH BARB DOWN ABOVE RIGHTWARDS HARPOON WITH BARB DOWN",
+        "char": "⥧"
+    },
+    {
+        "hex": "&#2968;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB UP",
+        "char": "⥨"
+    },
+    {
+        "hex": "&#2969;",
+        "name": "RIGHTWARDS HARPOON WITH BARB DOWN ABOVE LEFTWARDS HARPOON WITH BARB DOWN",
+        "char": "⥩"
+    },
+    {
+        "hex": "&#296A;",
+        "name": "LEFTWARDS HARPOON WITH BARB UP ABOVE LONG DASH",
+        "char": "⥪"
+    },
+    {
+        "hex": "&#296B;",
+        "name": "LEFTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH",
+        "char": "⥫"
+    },
+    {
+        "hex": "&#296C;",
+        "name": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LONG DASH",
+        "char": "⥬"
+    },
+    {
+        "hex": "&#296D;",
+        "name": "RIGHTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH",
+        "char": "⥭"
+    },
+    {
+        "hex": "&#296E;",
+        "name": "UPWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT",
+        "char": "⥮"
+    },
+    {
+        "hex": "&#296F;",
+        "name": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT",
+        "char": "⥯"
+    },
+    {
+        "hex": "&#2970;",
+        "name": "RIGHT DOUBLE ARROW WITH ROUNDED HEAD",
+        "char": "⥰"
+    },
+    {
+        "hex": "&#2971;",
+        "name": "EQUALS SIGN ABOVE RIGHTWARDS ARROW",
+        "char": "⥱"
+    },
+    {
+        "hex": "&#2972;",
+        "name": "TILDE OPERATOR ABOVE RIGHTWARDS ARROW",
+        "char": "⥲"
+    },
+    {
+        "hex": "&#2973;",
+        "name": "LEFTWARDS ARROW ABOVE TILDE OPERATOR",
+        "char": "⥳"
+    },
+    {
+        "hex": "&#2974;",
+        "name": "RIGHTWARDS ARROW ABOVE TILDE OPERATOR",
+        "char": "⥴"
+    },
+    {
+        "hex": "&#2975;",
+        "name": "RIGHTWARDS ARROW ABOVE ALMOST EQUAL TO",
+        "char": "⥵"
+    },
+    {
+        "hex": "&#2976;",
+        "name": "LESS-THAN ABOVE LEFTWARDS ARROW",
+        "char": "⥶"
+    },
+    {
+        "hex": "&#2977;",
+        "name": "LEFTWARDS ARROW THROUGH LESS-THAN",
+        "char": "⥷"
+    },
+    {
+        "hex": "&#2978;",
+        "name": "GREATER-THAN ABOVE RIGHTWARDS ARROW",
+        "char": "⥸"
+    },
+    {
+        "hex": "&#2979;",
+        "name": "SUBSET ABOVE RIGHTWARDS ARROW",
+        "char": "⥹"
+    },
+    {
+        "hex": "&#297A;",
+        "name": "LEFTWARDS ARROW THROUGH SUBSET",
+        "char": "⥺"
+    },
+    {
+        "hex": "&#297B;",
+        "name": "SUPERSET ABOVE LEFTWARDS ARROW",
+        "char": "⥻"
+    },
+    { "hex": "&#297C;", "name": "LEFT FISH TAIL", "char": "⥼" },
+    { "hex": "&#297D;", "name": "RIGHT FISH TAIL", "char": "⥽" },
+    { "hex": "&#297E;", "name": "UP FISH TAIL", "char": "⥾" },
+    { "hex": "&#297F;", "name": "DOWN FISH TAIL", "char": "⥿" }
+]
